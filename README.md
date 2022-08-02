@@ -2,7 +2,7 @@
 
 <h2>Working Demonstration Video Link: </h2>
 
-<h2>Backend Project Link: https://github.com/Anjaniy2000/reddit-clone-backend</h2>
+<h2>Backend (API Part) Project Link: https://github.com/Anjaniy2000/reddit-clone-backend</h2>
 
 <h2>Project Summery:</h2>
 
