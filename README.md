@@ -16,3 +16,14 @@
 - HTML
 - CSS
 - Bootstrap 4.0
+
+<h2>Dependencies / Dev-Dependencies:</h2>
+
+- Bootstrap 4.0
+- TinyMCE
+- Ngx-Webstorage
+- Ngx-Toastr
+- Angular-Fontawesome
+- Fontawesome-Svg-Core
+- Free-Solid-Svg-Icons
+- Protractor
