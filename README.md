@@ -1,27 +1,34 @@
-# AngularRedditClone
+# Reddit Clone Frontend
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.4.
+<h2>Working Demonstration Video Link: </h2>
 
-## Development server
+<h2>Backend (API Part) Project Link: https://github.com/Anjaniy2000/reddit-clone-backend</h2>
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+<h2>Project Summery:</h2>
 
-## Code scaffolding
+- Prepared A Clone of Famous Discussion Forum Called Reddit, With Spring boot & Angular.
+- It Has Features Such as User Can Login/Logout, Create Post, Create Subreddit, Use Subreddit, Comments on Various Posts & Upvote/Downvote Various Posts.
+- It Follows All The Best Practices Such As HTTP – Calls, Services, Components, Interceptors, Routings & More.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+<h2>Tech-Stack / Technologies:</h2>
 
-## Build
+- Angular
+- TypeScript
+- Node.js
+- NPM
+- HTML
+- CSS
+- Bootstrap 4.0
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+<h2>Dependencies / Dev-Dependencies:</h2>
 
-## Running unit tests
+- Bootstrap 4.0
+- TinyMCE
+- Ngx-Webstorage
+- Ngx-Toastr
+- Angular-Fontawesome
+- Fontawesome-Svg-Core
+- Free-Solid-Svg-Icons
+- Protractor
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+You Can Access The API (Backend) Documentation [Here](https://reddit-clone-spring-boot.herokuapp.com/swagger-ui.html).
