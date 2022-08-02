@@ -8,7 +8,7 @@
 
 - Prepared A Clone of Famous Discussion Forum Called Reddit, With Spring boot & Angular.
 - It Has Features Such as User Can Login/Logout, Create Post, Create Subreddit, Use Subreddit, Comments on Various Posts & Upvote/Downvote Various Posts.
-- It Folllows All The Best Practices Such As HTTP – Calls, Service, Components, Interceptors, Routing & More.
+- It Follows All The Best Practices Such As HTTP – Calls, Services, Components, Interceptors, Routings & More.
 
 <h2>Tech-Stack / Technologies:</h2>
 
