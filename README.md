@@ -8,10 +8,10 @@
 - It Has Features Such as User Can Login/Logout, Create Post, Create Subreddit, Use Subreddit, Comments on Various Posts & Upvote/Downvote Various Posts.
 
 <h2>Tech-Stack / Technologies:</h2>
-  - Angular
-  - TypeScript
-  - Node.js
-  - NPM
-  - HTML
-  - CSS
-  - Bootstrap 4.0
+ - Angular
+ - TypeScript
+ - Node.js
+ - NPM
+ - HTML
+ - CSS
+ - Bootstrap 4.0
