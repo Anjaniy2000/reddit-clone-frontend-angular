@@ -34,3 +34,45 @@
 - Protractor
 
 You Can Access The API (Backend) Documentation [Here](https://reddit-clone-spring-boot.herokuapp.com/swagger-ui.html).
+
+<h2>Application Screenshots: </h2>
+
+<h3>Home : </h3>
+
+![Screenshot](/screenshots/home.PNG)
+
+<h3>Register User : </h3>
+
+![Screenshot](/src/main/resources/screenshots/register.PNG)
+
+<h3>Login User : </h3>
+
+![Screenshot](/src/main/resources/screenshots/login.PNG)
+
+<h3>Posts / Feeds : </h3>
+
+![Screenshot](/src/main/resources/screenshots/posts-list.PNG)
+
+<h3>Create Subreddit : </h3>
+
+![Screenshot](/src/main/resources/screenshots/create-subreddit.PNG)
+
+<h3>Create Post : </h3>
+
+![Screenshot](/src/main/resources/screenshots/create-post.PNG)
+
+<h3>Create Comment : </h3>
+
+![Screenshot](/src/main/resources/screenshots/create-comment.PNG)
+
+<h3>View Post : </h3>
+
+![Screenshot](/src/main/resources/screenshots/view-post.PNG)
+
+<h3>View Profile : </h3>
+
+![Screenshot](/src/main/resources/screenshots/view-profile.PNG)
+
+<h3>Home (Without Login) : </h3>
+
+![Screenshot](/src/main/resources/screenshots/home.PNG)
